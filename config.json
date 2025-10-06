@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "logo": "assets/fs-logo.png",
+    "title": "Azraph Sandbox",
+    "links": [
+      {
+        "href": "/blog",
+        "name": "Blog"
+      },
+      {
+        "href": "/about",
+        "name": "About"
+      }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/yourusername"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on Twitter",
+        "href": "https://twitter.com/julie"
+      },
+      {
+        "label": "mastodon",
+        "name": "Follow me on Mastodon",
+        "href": "https://twitter.com/julie"
+      }
+    ]
+  },
+  "theme": {
+    "defaultMode": "system",
+    "showModeSwitch": true
+  },
+    "showSidebar": true
+}
